@@ -11,16 +11,23 @@
 
 
 ~ <p>Terminal</p>
-![Screenshot (660)](https://github.com/user-attachments/assets/eda10d8e-ab69-4f41-8930-3265d11a5e88)
+![image](https://github.com/user-attachments/assets/c0f92965-f718-4042-8e0c-6b94179e9284)
+
 
 -<p>WEB PHP</p>
-![Screenshot (661)](https://github.com/user-attachments/assets/566e6c96-8ee2-4825-a809-c22296ca3d72)
+![image](https://github.com/user-attachments/assets/5362b431-2733-475a-9442-c16b78cfbee7)
 
-<p>Browser</p>
 
-![Screenshot (672)](https://github.com/user-attachments/assets/6e6dda45-46a2-4520-86bc-7df5d2a7972a)
-![Screenshot (671)](https://github.com/user-attachments/assets/315fdceb-2482-4a7f-a8b5-e989baee1fef)
+<p>Browser Nama Sendiri</p>
+
+![Screenshot (760)](https://github.com/user-attachments/assets/8232a91a-62fd-4ce0-80cd-f6c0aebb0229)
+
+<p>Browser Admin</p>
+
+![Screenshot (757)](https://github.com/user-attachments/assets/c72a7df2-d43e-4693-bc4b-81c1bb235cb3)
+
 
 <p>DATABASE</p>
 
-![Screenshot (669)](https://github.com/user-attachments/assets/d2ae9585-d913-4fd1-914b-a9d93e315aab)
+![image](https://github.com/user-attachments/assets/074cea09-2709-4cf0-8038-0d72c5326aa2)
+
